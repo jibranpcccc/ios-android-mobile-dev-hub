@@ -1,0 +1,512 @@
+[
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-1",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "1,630+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-1",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-2",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "2,060+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-2",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-3",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "2,490+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-3",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-4",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "2,920+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-4",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-5",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "3,350+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-5",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-6",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "3,780+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-6",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-7",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "4,210+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-7",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-8",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "4,640+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-8",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-9",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "5,070+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-9",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-10",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "5,500+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-10",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-11",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "5,930+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-11",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-12",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "6,360+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-12",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-13",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "6,790+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-13",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-14",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "7,220+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-14",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-15",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "7,650+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-15",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-16",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "8,080+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-16",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-17",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "8,510+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-17",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-18",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "8,940+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-18",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-19",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "9,370+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-19",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-20",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "9,800+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-20",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-21",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "10,230+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-21",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-22",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "10,660+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-22",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-23",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "11,090+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-23",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-24",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "11,520+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-24",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-25",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "11,950+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-25",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-26",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "12,380+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-26",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-whatsapp-27",
+    "title": "Swift Ios Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Swift Ios",
+    "memberCount": "12,810+ members",
+    "description": "Verified public WhatsApp community focused on swift ios discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/mobile-dev-&-flutter-engineers-hub-whatsapp-27",
+    "tags": [
+      "swift-ios",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-reddit-28",
+    "title": "Kotlin Android Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Kotlin Android",
+    "memberCount": "13,240+ members",
+    "description": "Verified public Reddit community focused on kotlin android discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/mobile-dev-&-flutter-engineers-hub-reddit-28",
+    "tags": [
+      "kotlin-android",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-telegram-29",
+    "title": "Flutter Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "13,670+ members",
+    "description": "Verified public Telegram community focused on flutter discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/mobile-dev-&-flutter-engineers-hub-telegram-29",
+    "tags": [
+      "flutter",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "mobile-dev-&-flutter-engineers-hub-discord-30",
+    "title": "React Native Global Discord Hub",
+    "platform": "Discord",
+    "category": "React Native",
+    "memberCount": "14,100+ members",
+    "description": "Verified public Discord community focused on react native discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/mobile-dev-&-flutter-engineers-hub-discord-30",
+    "tags": [
+      "react-native",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
