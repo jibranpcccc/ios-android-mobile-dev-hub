@@ -273,12 +273,12 @@
   },
   {
     "id": "kotlin-discord",
-    "title": "Kotlin Developers Discord",
-    "platform": "Discord",
+    "title": "Kotlin Discussions Official Community",
+    "platform": "Forum",
     "category": "Kotlin Android",
     "memberCount": "35,000+ members",
     "description": "Active Discord server uniting Kotlin developers worldwide for KMP sharing, Compose Multiplatform troubleshooting, and language proposals.",
-    "joinUrl": "https://discord.gg/kotlin",
+    "joinUrl": "https://discuss.kotlinlang.org/",
     "tags": [
       "kotlin",
       "discord",
@@ -482,7 +482,7 @@
     "category": "Mobile Architecture",
     "memberCount": "110,000+ members",
     "description": "Professional Discord engineering server offering dedicated mobile development channels, architecture teardowns, and career advice.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "joinUrl": "https://discord.gg/programming",
     "tags": [
       "discord",
       "hangout",
