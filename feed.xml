@@ -4,10 +4,17 @@
     <title>Mobile Dev &amp; Flutter Engineers Hub</title>
     <link>https://jibranpcccc.github.io/ios-android-mobile-dev-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:31 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ios-android-mobile-dev-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
+      <link>https://discuss.kubernetes.io</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-discord-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:31 GMT</pubDate>
+      <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
       <link>https://www.reddit.com/r/aws/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-reddit-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-telegram-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:06:48 GMT</pubDate>
       <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
-      <link>https://discord.gg/python</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-discord-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:02:22 GMT</pubDate>
-      <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Active real-time developer server for Python help, code reviews, algorithmic design, and package development.</description>
     </item>
   </channel>
 </rss>
