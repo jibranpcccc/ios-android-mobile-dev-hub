@@ -4,10 +4,17 @@
     <title>Mobile Dev &amp; Flutter Engineers Hub</title>
     <link>https://jibranpcccc.github.io/ios-android-mobile-dev-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:00:31 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ios-android-mobile-dev-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-telegram-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:31 GMT</pubDate>
+      <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-telegram-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-reddit-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/programming International (Reddit)</title>
-      <link>https://www.reddit.com/r/programming/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:44:31 GMT</pubDate>
-      <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Major international hub for computer programming discussions, industry insights, and software development trends.</description>
     </item>
   </channel>
 </rss>
