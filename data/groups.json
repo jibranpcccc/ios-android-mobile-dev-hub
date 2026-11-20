@@ -1,5 +1,24 @@
 [
   {
+    "id": "flutter-telegram",
+    "title": "Flutter Developers Telegram",
+    "platform": "Telegram",
+    "category": "Flutter",
+    "memberCount": "45,000+ members",
+    "description": "Global Telegram community dedicated to Flutter announcements, package releases, code snippets, and fast-paced architecture discussions.",
+    "joinUrl": "https://t.me/flutter",
+    "tags": [
+      "flutter",
+      "telegram",
+      "dart",
+      "mobile"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "flutter-discord",
     "title": "Flutter Community Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -1081,24 +1100,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "flutter-telegram",
-    "title": "Flutter Developers Telegram",
-    "platform": "Telegram",
-    "category": "Flutter",
-    "memberCount": "45,000+ members",
-    "description": "Global Telegram community dedicated to Flutter announcements, package releases, code snippets, and fast-paced architecture discussions.",
-    "joinUrl": "https://t.me/flutter",
-    "tags": [
-      "flutter",
-      "telegram",
-      "dart",
-      "mobile"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "reactnative-reddit",
