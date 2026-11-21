@@ -1,5 +1,24 @@
 [
   {
+    "id": "reactnative-reddit",
+    "title": "r/reactnative Community",
+    "platform": "Reddit",
+    "category": "React Native",
+    "memberCount": "140,000+ members",
+    "description": "Subreddit focused on building iOS and Android apps using React Native, Expo, Hermes engine optimizations, and native bridge integration.",
+    "joinUrl": "https://www.reddit.com/r/reactnative/",
+    "tags": [
+      "react-native",
+      "expo",
+      "reddit",
+      "javascript"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "flutter-telegram",
     "title": "Flutter Developers Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -1100,24 +1119,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "reactnative-reddit",
-    "title": "r/reactnative Community",
-    "platform": "Reddit",
-    "category": "React Native",
-    "memberCount": "140,000+ members",
-    "description": "Subreddit focused on building iOS and Android apps using React Native, Expo, Hermes engine optimizations, and native bridge integration.",
-    "joinUrl": "https://www.reddit.com/r/reactnative/",
-    "tags": [
-      "react-native",
-      "expo",
-      "reddit",
-      "javascript"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "reactiflux-discord",
