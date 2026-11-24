@@ -1,5 +1,24 @@
 [
   {
+    "id": "iosprogramming-reddit",
+    "title": "r/iOSProgramming Community",
+    "platform": "Reddit",
+    "category": "Swift iOS",
+    "memberCount": "195,000+ members",
+    "description": "Active subreddit for native Apple platform engineers, discussing Swift, SwiftUI, UIKit, App Store guidelines, and iOS career growth.",
+    "joinUrl": "https://www.reddit.com/r/iOSProgramming/",
+    "tags": [
+      "ios",
+      "swift",
+      "reddit",
+      "apple"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "reactnative-telegram",
     "title": "React Native Developers Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -1157,24 +1176,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "iosprogramming-reddit",
-    "title": "r/iOSProgramming Community",
-    "platform": "Reddit",
-    "category": "Swift iOS",
-    "memberCount": "195,000+ members",
-    "description": "Active subreddit for native Apple platform engineers, discussing Swift, SwiftUI, UIKit, App Store guidelines, and iOS career growth.",
-    "joinUrl": "https://www.reddit.com/r/iOSProgramming/",
-    "tags": [
-      "ios",
-      "swift",
-      "reddit",
-      "apple"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "swift-discord",
