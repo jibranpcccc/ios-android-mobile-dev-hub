@@ -1,5 +1,24 @@
 [
   {
+    "id": "swiftdev-telegram",
+    "title": "Swift & Apple Developers Telegram",
+    "platform": "Telegram",
+    "category": "Swift iOS",
+    "memberCount": "22,000+ members",
+    "description": "Telegram channel broadcasting Swift evolution updates, open-source libraries, compiler news, and Apple SDK tutorials.",
+    "joinUrl": "https://t.me/swift_dev",
+    "tags": [
+      "swift",
+      "ios",
+      "telegram",
+      "apple"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "swift-discord",
     "title": "Swift & iOS Developers Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -1195,24 +1214,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "swiftdev-telegram",
-    "title": "Swift & Apple Developers Telegram",
-    "platform": "Telegram",
-    "category": "Swift iOS",
-    "memberCount": "22,000+ members",
-    "description": "Telegram channel broadcasting Swift evolution updates, open-source libraries, compiler news, and Apple SDK tutorials.",
-    "joinUrl": "https://t.me/swift_dev",
-    "tags": [
-      "swift",
-      "ios",
-      "telegram",
-      "apple"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "androiddev-reddit",

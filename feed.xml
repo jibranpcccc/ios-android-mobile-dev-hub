@@ -4,10 +4,17 @@
     <title>Mobile Dev &amp; Flutter Engineers Hub</title>
     <link>https://jibranpcccc.github.io/ios-android-mobile-dev-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:00:31 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ios-android-mobile-dev-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Swift &amp; Apple Developers Telegram (Telegram)</title>
+      <link>https://t.me/swift_dev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#swiftdev-telegram-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:31 GMT</pubDate>
+      <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Telegram channel broadcasting Swift evolution updates, open-source libraries, compiler news, and Apple SDK tutorials.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Swift &amp; iOS Developers Discord (Discord)</title>
       <link>https://discord.gg/swift</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#swift-discord-2026-11-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-telegram-20261029-1-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 06:00:32 GMT</pubDate>
       <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: AI Insights &amp; Research Feed (Telegram)</title>
-      <link>https://t.me/ai_insights</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ios-android-mobile-dev-hub/#ios-android-mobile-dev-hub-telegram-20261027-1-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to Mobile Dev &amp; Flutter Engineers Hub: Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.</description>
     </item>
   </channel>
 </rss>
